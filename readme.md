@@ -15,7 +15,6 @@ Senior Systems Engineer @ Getty Images, currently shepherding Kubernetes-based a
 | Area | What excites me |
 | --- | --- |
 | Distributed & event-driven systems | Turning messy real-world signals into trustworthy, low-latency decisions. |
-| ML + product experience | Pairing smart models with crisp UX so AI feels like a teammate, not a black box. |
 | Developer experience | Building tooling, guidelines, and automation that let teams move confidently. |
 | Kubernetes platforms & cloud build systems | Operating clusters, supply chains, and delivery guardrails that keep releases safe and fast. |
 
