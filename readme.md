@@ -5,11 +5,11 @@
 Senior Systems Engineer @ Getty Images, currently shepherding Kubernetes-based artifact management and build tooling.
 
 ## Snapshot
-- :hammer_and_wrench: Leads Getty Images' Kubernetes and build-tooling platform workstreams in AWS.
-- :dart: Steers ambitious ideas toward reliable, maintainable implementations balancing speed with resilience.
-- :brain: Blends systems thinking, AI curiosity, and product empathy to keep solutions practical.
-- :joystick: Enjoys hands-on prototyping just as much as shaping long-term engineering strategy.
-- :handshake: Champions human collaboration, deep code reviews, and observability-first cultures.
+- Leads Getty Images' Kubernetes and build-tooling platform workstreams in AWS.
+- Steers ambitious ideas toward reliable, maintainable implementations balancing speed with resilience.
+- Blends systems thinking, AI curiosity, and product empathy to keep solutions practical.
+- Enjoys hands-on prototyping just as much as shaping long-term engineering strategy.
+- Champions human collaboration, deep code reviews, and observability-first cultures.
 
 ## Work I Gravitate Toward
 | Area | What excites me |
@@ -24,14 +24,14 @@ Senior Systems Engineer @ Getty Images, currently shepherding Kubernetes-based a
 3. **Document the why** – decisions, playbooks, and architecture notes live beside the code.
 
 ## Current Focus
-- :cloud: Deploying build tools like Gitlab Enterprise and Artifactory on AWS EKS with sane defaults and guardrails.
-- :package: Hardening platform foundations: API boundaries, golden paths, and progressive delivery.
+- Deploying build tools like Gitlab Enterprise and Artifactory on AWS EKS with sane defaults and guardrails.
+- Hardening platform foundations: API boundaries, golden paths, and progressive delivery.
 
 ## Toolbox at a Glance
 - **Systems**: distributed services, streaming pipelines, edge & IoT orchestration.
 - **Platform**: Kubernetes (EKS), build systems, CI/CD, IaC, observability, incident response, SLO automation.
 
 ## Let's Collaborate
-- :telescope: Open to chatting about platform modernization or developer productivity bets.
-- :mailbox_with_mail: Drop a note via the contact channels below (or suggest your favorite community) and let’s brainstorm.
+- Open to chatting about platform modernization or developer productivity bets.
+- Drop a note via the contact channels below (or suggest your favorite community) and let’s brainstorm.
 
